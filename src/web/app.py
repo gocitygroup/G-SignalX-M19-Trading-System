@@ -312,6 +312,13 @@ def index():
         return render_template('index.html', embed=True, permissions=permissions)
     return render_template('index.html', embed=False)
 
+
+@app.route('/manual')
+@login_required
+def manual():
+    """Serve the trader user manual (responsive help page)."""
+    return render_template('manual.html')
+
 def background_monitoring():
     """Enhanced background thread for real-time monitoring"""
     global monitoring_active

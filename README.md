@@ -1,8 +1,8 @@
-# 📊 Forex Profit Monitoring System
+# 📊 G-SignalX-M19-Trading-System
 
 ## 🎯 **What This Application Does**
 
-The **Forex Profit Monitoring System** is a comprehensive Windows application designed to help traders monitor, analyze, and manage their MetaTrader 5 (MT5) trading positions in real-time. It provides instant profit/loss calculations, automated position closing capabilities, and detailed performance analytics.
+The **G-SignalX-M19-Trading-System** is a comprehensive Windows application designed to help traders monitor, analyze, and manage their MetaTrader 5 (MT5) trading positions in real-time. It provides instant profit/loss calculations, automated position closing capabilities, and detailed performance analytics.
 
 ### **Key Features:**
 
